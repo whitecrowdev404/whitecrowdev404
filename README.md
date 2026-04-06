@@ -5,7 +5,7 @@
 
  # 🐦‍⬛ Projeto do Corvo Branco
 
-Nas sombras dos códigos e entre linhas ainda não totalmente compreendidas, surge o **Corvo Branco** — uma anomalia, um aprendiz que se recusa a seguir caminhos comuns.
+Nas sombras dos códigos e entre linhas ainda não totalmente compreendidas, surge o **Corvo Branco** — Um aprendiz que se recusa a seguir caminhos comuns.
 
 Sou um estudante de **Full Stack**, em constante evolução, explorando desde as profundezas do back-end até os detalhes visuais do front-end. Cada tecnologia aprendida é como uma nova habilidade desbloqueada, e cada projeto concluído representa mais um capítulo dessa jornada.
 
