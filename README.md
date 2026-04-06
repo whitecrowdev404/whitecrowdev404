@@ -1,6 +1,6 @@
 ## Oii, Um Perfil De Um Corvo Aprendiz 👋
 
-<!--
+
 **whitecrowdev404/whitecrowdev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  # 🐦‍⬛ Projeto do Corvo Branco
@@ -29,8 +29,7 @@ Desde então:
 * Versionamento com Git & GitHub (meu grimório de conhecimento)
 
 ## 🌌 Filosofia do Corvo
-
-> "Não existe código perfeito, apenas versões mais sábias."
+"Não existe código perfeito, apenas versões mais sábias."
 
 A cada erro, uma lição.
 A cada projeto, uma evolução.
